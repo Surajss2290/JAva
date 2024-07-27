@@ -5,7 +5,7 @@ public static void main(String[]args) {
 	System.out.println("Hello suraj");
 	
 	System.out.println(" helli harsh New code");
-	System.out.println(" helli tushar New code");
+	
 }
 	
 }
